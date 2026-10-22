@@ -1,0 +1,23 @@
+5
+-----
+3
+-----
+-6
+-----
+2.5
+-----
+21
+-----
+3
+-----
+50
+-----
+10
+-----
+Error: Division by zero
+-----
+Error: Unbalanced parentheses
+-----
+Error: Unexpected operator '*'
+-----
+Error: Invalid character '$'

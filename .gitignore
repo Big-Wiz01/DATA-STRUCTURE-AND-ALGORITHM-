@@ -1,0 +1,8 @@
+# Exclude assignment documentation report as requested
+*.docx
+DCOMP320_Stacks_Assignment_Report.docx
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
